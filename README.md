@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am
+## I am
  - 🖖 **nijakow**
  - 📚 Studying computer science at the [42 Heilbronn](https://www.42heilbronn.de/en/) and the [HHN](https://www.hs-heilbronn.de/en)
  - 🇪🇺 Living in Germany, with Europe at heart
- - 🌱 Building worlds and catching fireflies
+ - 🌱 Building worlds and finding fireflies
  - 🚀 Creating [programming languages](https://github.com/nijakow/EcoRE), operating systems and [magical](https://github.com/nijakow/raven) [worlds](https://github.com/nijakow/lmud)
 
-My favorite programming languages are:
- - 🪄 Lisp (of course)
- - 🔧 C
- - 🎈 Smalltalk
- - 🪜 FORTH
- - 🦀 Rust
+## My favorite programming languages are:
+ - 🪄 **Lisp** (of course)
+ - 🔧 **C**
+ - 🎈 **Smalltalk**
+ - 🪜 **FORTH**
+ - 🦀 **Rust**
