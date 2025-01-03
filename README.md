@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  - 📚 Studying computer science at the [42 Heilbronn](https://www.42heilbronn.de/en/) and the [HHN](https://www.hs-heilbronn.de/en)
  - 🇪🇺 Living in Germany, with Europe at heart
  - 🌱 Building worlds and finding fireflies
- - 🚀 Creating [programming languages](https://github.com/nijakow/EcoRE), operating systems and [magical](https://github.com/nijakow/raven) [worlds](https://github.com/nijakow/lmud)
+ - 🚀 Creating [programming languages](https://github.com/nijakow/EcoRE), [operating systems](https://github.com/nijakow/nios-c) and [magical](https://github.com/nijakow/raven) [worlds](https://github.com/nijakow/lmud)
 
 ## My favorite programming languages
  - 🪄 **Lisp** (of course)
