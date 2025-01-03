@@ -32,11 +32,10 @@ Here are some ideas to get you started:
 ## What inspires me
 
  - 🌍 Creating a better future
- - 🔧 Solving problems
+ - 🧠 Solving problems and learning new things
  - 🚀 Pushing boundaries
- - 📜 Exploring new ideas
+ - 💡 Exploring new ideas
  - 🤝 Collaborating and building communities
- - 🧠 Learning from others
  - 🏳️‍🌈 Diversity
 
 ## I am interested in
