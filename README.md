@@ -37,3 +37,21 @@ Here are some ideas to get you started:
  - 📜 Exploring new ideas
  - 🤝 Collaborating and building communities
  - 🧠 Learning from others
+ - 🏳️‍🌈 Diversity
+
+## I am interested in
+
+ - 🖥️ Programming
+ - 🧪 Science
+   - 🌌 Mathematics
+   - 🧬 Biology
+   - ⚛️ Chemistry
+   - 🍏 Physics
+   - 🪐 Astronomy
+   - 📜 Philosophy
+ - 🎨 Art
+ - 📖 Literature
+ - 🎼 Music
+ - 🗺️ Geography
+ - 🗳️ Politics
+ - 🗃️ [Zettelkästen](https://zettelkasten.de/introduction/)
