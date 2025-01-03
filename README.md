@@ -22,7 +22,7 @@ Here are some ideas to get you started:
  - 🌱 Building worlds and finding fireflies
  - 🚀 Creating [programming languages](https://github.com/nijakow/EcoRE), operating systems and [magical](https://github.com/nijakow/raven) [worlds](https://github.com/nijakow/lmud)
 
-## My favorite programming languages are:
+## My favorite programming languages
  - 🪄 **Lisp** (of course)
  - 🔧 **C**
  - 🎈 **Smalltalk**
