@@ -28,3 +28,12 @@ Here are some ideas to get you started:
  - 🎈 **Smalltalk**
  - 🪜 **FORTH**
  - 🦀 **Rust**
+
+## What inspires me
+
+ - 🌍 Creating a better future
+ - 🔧 Solving problems
+ - 🚀 Pushing boundaries
+ - 📜 Exploring new ideas
+ - 🤝 Collaborating and building communities
+ - 🧠 Learning from others
