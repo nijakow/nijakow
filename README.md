@@ -22,6 +22,14 @@ Here are some ideas to get you started:
  - 🌱 Building worlds and finding fireflies
  - 🚀 Creating [programming languages](https://github.com/nijakow/EcoRE), [operating systems](https://github.com/nijakow/nios-c) and [magical](https://github.com/nijakow/raven) [worlds](https://github.com/nijakow/lmud)
 
+## I am working on
+
+making the world a better place.
+
+I chose computer science as my area of expertise because it can be applied everywhere - and everyone can benefit from it.
+
+My pet project is [EcoRE](https://github.com/nijakow/EcoRE), a programming environment inspired by the power and flexibility of **Smalltalk** and **Self**. Over the years I have implemented multiple versions of it, and I keep refining the mechanisms to make it as compact and flexible as possible.
+
 ## My favorite programming languages
  - 🪄 **Lisp** (of course)
  - 🔧 **C**
