@@ -44,7 +44,7 @@ My pet project is [EcoRE](https://github.com/nijakow/EcoRE), a programming envir
  - 🚀 Pushing boundaries
  - 💡 Exploring new ideas
  - 🤝 Collaborating and building communities
- - 🏳️‍🌈 Diversity
+ - 🏳️‍🌈 Celebrating diversity
 
 ## I am interested in
 
